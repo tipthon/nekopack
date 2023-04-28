@@ -55,6 +55,12 @@
       "required": false
     }
   },
+   "UPSTREAM_REPO": {
+     "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
+     "value": "https://github.com/tipthon/tibthonAr",
+     "required": false
+    }
+  },
   "addons": [{
     "plan": "heroku-postgresql",
     "options": {
