@@ -53,8 +53,7 @@
       "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
       "value": "Asia/Baghdad",
       "required": false
-    }
-  },
+    },
    "UPSTREAM_REPO": {
      "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
      "value": "https://github.com/tipthon/tibthonAr",
